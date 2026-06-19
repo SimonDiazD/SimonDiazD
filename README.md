@@ -3,7 +3,7 @@
 
 
 ## Backend Developer | Systems Engineering Student | AppSec Enthusiast
-Soy estudiante de 4º semestre de Ingeniería de Sistemas en la Universidad de Antioquia. Mi enfoque principal es el desarrollo de software seguro y escalable, con experiencia construyendo arquitecturas robustas en el backend. Actualmente, estoy pivotando mi carrera hacia la Seguridad de Aplicaciones (AppSec), integrando principios de desarrollo seguro desde la fase de diseño.
+Soy estudiante de 5º semestre de Ingeniería de Sistemas en la Universidad de Antioquia. Mi enfoque principal es el desarrollo de software seguro y escalable, con experiencia construyendo arquitecturas robustas en el backend. Actualmente, estoy pivotando mi carrera hacia la Seguridad de Aplicaciones (AppSec), integrando principios de desarrollo seguro desde la fase de diseño.
 
 ## 🎓 Educación
 
